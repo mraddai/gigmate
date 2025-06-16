@@ -26,7 +26,7 @@ A mobile application built using Flutter that connects employers and freelancers
 ## 🔧 Setup
 
 ```bash
-git clone https://github.com/yourusername/quick-gigs.git
+git clone https://github.com/mraddai/quick-gigs.git
 cd quick-gigs
 flutter pub get
 flutter run
