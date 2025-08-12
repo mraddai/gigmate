@@ -1,32 +1,24 @@
-# gigmate
-# 🚀 GigMate – Job Matching App
+GigMate is a job-matching platform built primarily with Python that connects employers and freelancers for short-term gigs. It currently runs as a desktop and server-based application, with ongoing development to expand into a full HTML/CSS/JS web frontend.
 
-A mobile application built using Flutter that connects employers and freelancers for short-term gigs.
+Features
+User Accounts: Employer and worker registration/login
 
-## 📱 Features
+Real-Time Job Listings: Post and apply for gigs instantly
 
-- Employer and worker account registration
-- Real-time job listing and application
-- Firebase integration for backend and auth
-- Clean and intuitive UI for both user types
+Database Integration: Store and manage job postings and user profiles
 
-## 🧰 Tech Stack
+Frontend UI: Python-based interface, migrating to a modern HTML/CSS frontend
 
-- Flutter (Dart)
-- Firebase Auth & Firestore
-- Firebase Hosting
-- Git for version control
+Tech Stack
 
-## 🏆 Key Achievements
+Frontend: Python (Tkinter / Custom UI) → Migrating to HTML/CSS/JS
+Backend: Python (Flask/Django)
+Database: SQLite / PostgreSQL (depending on deployment)
+Version Control: Git & GitHub
 
-- Developed by a team of 6 over 4 months
-- Reduced load time by 25% with optimization and Flutter best practices
-- Designed user-friendly UI that improved engagement and retention
 
-## 🔧 Setup
+Key Achievements
 
-```bash
-git clone https://github.com/mraddai/quick-gigs.git
-cd quick-gigs
-flutter pub get
-flutter run
+Developed solely by me
+Built a fully functional Python-based job-matching system
+Designing a web-based UI to improve cross-platform access and usability
